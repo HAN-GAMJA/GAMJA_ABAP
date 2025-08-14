@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCL_EX_BAPIEXT_SCUSTOMER</CLSNAME>
+    <LANGU>3</LANGU>
+    <DESCRIPT>BAdI class YCL_EX_BAPIEXT_SCUSTOMER</DESCRIPT>
+    <CATEGORY>01</CATEGORY>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_CLASS>
+    <SEOCLASSTX>
+     <LANGU>3</LANGU>
+     <DESCRIPT>BAdI class YCL_EX_BAPIEXT_SCUSTOMER</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_CLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>INSTANCE_BADI_TABLE</CMPNAME>
+     <LANGU>3</LANGU>
+     <DESCRIPT>Instance Attribute INSTANCE_BADI_TABLE of Class YCL_EX_BAPIE</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INSTANCE_FLT_CACHE</CMPNAME>
+     <LANGU>3</LANGU>
+     <DESCRIPT>Instance Attribute INSTANCE_FLT_CACHE of Class YCL_EX_BAPIEX</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>VERSION</CMPNAME>
+     <LANGU>3</LANGU>
+     <DESCRIPT>Version Indicator for Generator</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
